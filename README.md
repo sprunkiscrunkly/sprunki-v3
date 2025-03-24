@@ -1,6 +1,6 @@
 # Sprunki V3: Tactical Warfare Redefined
 
-![Sprunki V3 Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-v3/main/assets/sprunki-v3.png "Experience Sprunki V3 Tactical Combat")
+![Sprunki V3 Gameplay](https://raw.githubusercontent.com/sprunkiscrunkly/sprunki-v3/refs/heads/main/sprunki-v3.png "Experience Sprunki V3 Tactical Combat")
 
 🔥 Play the Original: [Sprunki V3 Classic Edition](https://sprunksters.com/sprunki-v3/ "Sprunki V3 Original")  
 🔥 Try Enhanced Version: [Sprunki V3 Tactical Upgrade](https://sprunkiscrunkly.com/sprunki-v3/ "Sprunki V3 Enhanced")  
